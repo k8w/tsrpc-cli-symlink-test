@@ -1140,10 +1140,10 @@
     "tslib" "*"
     "tsrpc-proto" "^1.4.2"
 
-"tsrpc-cli@^2.4.4":
-  "integrity" "sha512-iA+EX2UjUVxobivUWipaeKhDTCqHVZ8JyurtwNkXzxmE7gyiSs2gDNe/3TXn7CNX3dtVJAOin6fa+iQAzbg4+g=="
-  "resolved" "https://registry.npmmirror.com/tsrpc-cli/-/tsrpc-cli-2.4.4.tgz"
-  "version" "2.4.4"
+"tsrpc-cli@^2.4.5-dev.0":
+  "integrity" "sha512-0NJmgp80HeuxvUcjIHzJldb7UMCfHQDFT+nskH3sf28EpAkkCUTCVhCJh1i9KGvvmIygDxBcTgIG9DwJf4YDkQ=="
+  "resolved" "https://registry.npmjs.org/tsrpc-cli/-/tsrpc-cli-2.4.5-dev.0.tgz"
+  "version" "2.4.5-dev.0"
   dependencies:
     "chalk" "^4.1.2"
     "chokidar" "^3.5.3"
